@@ -1,0 +1,7 @@
+This is a collection of string search algorithms,
+mostly based on the Wikipedia documentation (http://en.wikipedia.org/wiki/String_searching_algorithm),
+for all to use.
+
+They are supposed to be didactic
+(Via copious commenting and readable var names, etc -- I'm teaching myself, too)
+as well as production-ready.
